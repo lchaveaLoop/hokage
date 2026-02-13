@@ -6,9 +6,9 @@
     "target_words_per_chapter": 2200,
     "total_target_words": 1003200,
     "current_progress": {
-      "completed_chapters": 20,
-      "pending_chapters": 436,
-      "completion_percentage": 4.4
+      "completed_chapters": 30,
+      "pending_chapters": 426,
+      "completion_percentage": 6.6
     }
   },
   "volumes": [
@@ -267,6 +267,127 @@
       "skills": ["疾风连拳", "旋风腿", "碎骨", "铁山靠"],
       "milestone": "转职散打(成长里程碑)",
       "published_path": "正文/已发布/第二十章.md"
+    },
+    {
+      "chapter_number": 21,
+      "title": "报名现场",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "中忍考试报名,龙套挑衅,李武霸体硬钢一拳轰飞,立威震慑全场",
+      "key_scenes": ["报名大厅", "龙套挑衅", "霸体硬钢", "一拳打穿墙壁", "全场震撼"],
+      "skills": ["霸体护甲", "寸拳"],
+      "published_path": "正文/已发布/第二十一章.md"
+    },
+    {
+      "chapter_number": 22,
+      "title": "各国忍者",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "念气感知扫描全场,音忍砂隐登场,发现大蛇丸伪装,实力评估",
+      "key_scenes": ["系统扫描", "我爱罗Lv.25", "大蛇丸Lv.60+", "全场实力分布"],
+      "skills": ["念气感知"],
+      "published_path": "正文/已发布/第二十二章.md"
+    },
+    {
+      "chapter_number": 23,
+      "title": "笔试开始",
+      "status": "completed",
+      "word_count": 2000,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "伊比喜监考笔试,李武只写'绝对实力',阐述一力降十会忍道",
+      "key_scenes": ["考场规则", "超难试题", "各种作弊", "李武的答案", "与伊比喜对话"],
+      "skills": [],
+      "published_path": "正文/已发布/第二十三章.md"
+    },
+    {
+      "chapter_number": 24,
+      "title": "作弊与反作弊",
+      "status": "completed",
+      "word_count": 2000,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "念气感知情绪探测,心理战第十题,鸣人爆发,全员通过",
+      "key_scenes": ["情绪探测", "心理战", "鸣人的决心", "考试通过"],
+      "skills": ["念气感知·情绪探测模式"],
+      "published_path": "正文/已发布/第二十四章.md"
+    },
+    {
+      "chapter_number": 25,
+      "title": "通过第一场",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "伊比喜认可李武,红豆登场宣布第二场考试,死亡森林规则",
+      "key_scenes": ["伊比喜评价", "红豆破窗登场", "死亡森林规则", "生死之战"],
+      "skills": [],
+      "published_path": "正文/已发布/第二十五章.md"
+    },
+    {
+      "chapter_number": 26,
+      "title": "死亡森林开幕",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "签署生死状,分发天地卷轴,进入森林,制定狩猎策略",
+      "key_scenes": ["生死状签署", "卷轴分发", "进入森林", "念气感知扫描"],
+      "skills": ["念气感知"],
+      "published_path": "正文/已发布/第二十六章.md"
+    },
+    {
+      "chapter_number": 27,
+      "title": "草忍小队",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "遭遇大蛇丸伪装草忍,被攻击霸体破碎,小李开门被击败,佐助引开大蛇丸",
+      "key_scenes": ["大蛇丸登场", "霸体护甲破碎", "小李八门遁甲", "佐助救援"],
+      "skills": ["霸体护甲", "念气爆发", "八门遁甲·开门"],
+      "published_path": "正文/已发布/第二十七章.md"
+    },
+    {
+      "chapter_number": 28,
+      "title": "抉择时刻",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "系统改命选项出现,代价等级-10,李武选择接受命运,佐助被种下咒印",
+      "key_scenes": ["改命选项", "代价评估", "内心挣扎", "接受命运", "立下誓言"],
+      "skills": ["念气感知·追踪模式"],
+      "milestone": "佐助的咒印(关键命运节点)",
+      "published_path": "正文/已发布/第二十八章.md"
+    },
+    {
+      "chapter_number": 29,
+      "title": "狩猎开始",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "恢复后狩猎雨隐小队,1分钟秒杀获得地之卷轴,遭遇我爱罗,成为第一支到达队伍",
+      "key_scenes": ["快速战斗", "获得卷轴", "遭遇我爱罗", "到达高塔", "凯老师登场"],
+      "skills": ["霸体护甲", "寸拳", "念气感知"],
+      "published_path": "正文/已发布/第二十九章.md"
+    },
+    {
+      "chapter_number": 30,
+      "title": "高塔等待",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "高塔内等待,各队陆续到达,佐助带咒印到达,红豆宣布预选赛",
+      "key_scenes": ["高塔休息", "我爱罗到达", "音隐到达", "第七班到达", "佐助的咒印", "预选赛宣布"],
+      "skills": ["念气感知"],
+      "published_path": "正文/已发布/第三十章.md"
     }
   ]
 }

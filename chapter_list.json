@@ -959,6 +959,19 @@
       "skills": ["寸拳", "闪电之舞", "武神强踢", "念气爆发"],
       "milestone": "击败使徒罗特斯,佩恩来袭",
       "published_path": "正文/已发布/第一百五十四章.md"
+    },
+    {
+      "chapter_number": 155,
+      "title": "佩恩六道",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 3,
+      "level": 118,
+      "core_plot": "击败佩恩六道,升级Lv.118,长门准备超神罗天征,李武前往雨隐村",
+      "key_scenes": ["击败佩恩六道", "升级Lv.118", "长门震怒", "前往雨隐村"],
+      "skills": ["寸拳", "疾风连拳", "旋风腿", "念气爆发", "武神强踢"],
+      "milestone": "击败佩恩六道,前往雨隐村",
+      "published_path": "正文/已发布/第一百五十五章.md"
     }
   ]
 }

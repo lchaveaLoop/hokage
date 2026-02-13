@@ -164,11 +164,11 @@
       "status": "completed",
       "word_count": 2100,
       "volume": 1,
-      "level": 19,
+      "level": 18,
       "core_plot": "战后讨论,卡卡西建议查克拉控制训练,李武独自训练",
       "key_scenes": ["战后讨论", "卡卡西的建议", "爬树训练", "李武的独立训练"],
       "skills": [],
-      "published_path": "正文/已发布/第十二章.md"
+      "published_path": "正文/已发布/第十二章(v2).md"
     },
     {
       "chapter_number": 13,
@@ -176,11 +176,11 @@
       "status": "completed",
       "word_count": 2000,
       "volume": 1,
-      "level": 20,
+      "level": 18,
       "core_plot": "鸣人查克拉控制训练,李武传授DNF数值化训练法",
       "key_scenes": ["鸣人的苦恼", "李武的数值化教学", "鸣人的突破", "佐助的进步"],
       "skills": [],
-      "published_path": "正文/已发布/第十三章.md"
+      "published_path": "正文/已发布/第十三章(v2).md"
     },
     {
       "chapter_number": 14,
@@ -188,11 +188,11 @@
       "status": "completed",
       "word_count": 2100,
       "volume": 1,
-      "level": 21,
-      "core_plot": "李武清晨训练,钢筋铁骨击碎礁石,寸拳改进,升级Lv.23,小李加入训练",
-      "key_scenes": ["钢筋铁骨训练", "寸拳改进", "升级Lv.23", "小李加入", "兄弟互动"],
+      "level": 19,
+      "core_plot": "李武清晨训练,钢筋铁骨击碎礁石,寸拳改进,升级Lv.19,小李加入训练",
+      "key_scenes": ["钢筋铁骨训练", "寸拳改进", "升级Lv.19", "小李加入", "兄弟互动"],
       "skills": ["钢筋铁骨", "寸拳"],
-      "published_path": "正文/已发布/第十四章.md"
+      "published_path": "正文/已发布/第十四章(v2).md"
     },
     {
       "chapter_number": 15,
@@ -200,11 +200,11 @@
       "status": "completed",
       "word_count": 2100,
       "volume": 1,
-      "level": 22,
+      "level": 19,
       "core_plot": "五天后再不斩恢复,最终决战,李武偏离致命一击,再不斩濒死,白暴走登场",
       "key_scenes": ["再不斩恢复", "李武vs再不斩", "弱点洞察", "偏离的一拳", "白暴走"],
       "skills": ["寸拳·蓄力", "弱点洞察", "霸体护甲"],
-      "published_path": "正文/已发布/第十五章.md"
+      "published_path": "正文/已发布/第十五章(v2).md"
     },
     {
       "chapter_number": 16,
@@ -212,12 +212,12 @@
       "status": "completed",
       "word_count": 2000,
       "volume": 1,
-      "level": 23,
+      "level": 19,
       "core_plot": "卡多背刺,白为再不斩挡刀致命伤,系统改命选项(代价等级-5),李武选择接受命运,白死亡,再不斩杀卡多",
       "key_scenes": ["卡多背刺", "白挡刀", "系统改命选项", "李武的抉择", "白的死亡", "再不斩复仇"],
       "skills": [],
       "milestone": "白的牺牲(关键命运节点)",
-      "published_path": "正文/已发布/第十六章.md"
+      "published_path": "正文/已发布/第十六章(v2).md"
     },
     {
       "chapter_number": 17,
@@ -225,23 +225,23 @@
       "status": "completed",
       "word_count": 2000,
       "volume": 1,
-      "level": 23,
+      "level": 19,
       "core_plot": "雇佣兵继续攻击,李武闪电之舞清场,大桥完工,命名鸣人大桥,告别波之国",
       "key_scenes": ["雇佣兵攻击", "闪电之舞首秀", "清场震撼", "大桥完工", "鸣人大桥", "告别"],
       "skills": ["闪电之舞"],
-      "published_path": "正文/已发布/第十七章.md"
+      "published_path": "正文/已发布/第十七章(v2).md"
     },
     {
       "chapter_number": 18,
       "title": "回程之路",
       "status": "completed",
-      "word_count": 2100,
+      "word_count": 2000,
       "volume": 1,
-      "level": 23,
+      "level": 19,
       "core_plot": "回村路上团队交流,鸣人询问白的死亡,卡卡西试探力量来源,李武内心反思,团藏威胁警告",
       "key_scenes": ["回程路上", "鸣人的疑问", "卡卡西的试探", "李武的解释", "夜晚反思", "团藏警告"],
       "skills": [],
-      "published_path": "正文/已发布/第十八章.md"
+      "published_path": "正文/已发布/第十八章(v2).md"
     },
     {
       "chapter_number": 19,
@@ -249,11 +249,11 @@
       "status": "completed",
       "word_count": 2100,
       "volume": 1,
-      "level": 23,
+      "level": 19,
       "core_plot": "回到木叶遭遇根部拦截,念气爆发震飞根部,向火影汇报任务,破格授予中忍资格,团藏暗中监视",
       "key_scenes": ["根部拦截", "威胁小李", "念气爆发", "火影办公室", "三代震惊", "中忍资格", "团藏监视"],
       "skills": ["念气爆发"],
-      "published_path": "正文/已发布/第十九章.md"
+      "published_path": "正文/已发布/第十九章(v2).md"
     },
     {
       "chapter_number": 20,
@@ -261,12 +261,12 @@
       "status": "completed",
       "word_count": 2000,
       "volume": 1,
-      "level": 23,
+      "level": 19,
       "core_plot": "系统提示转职条件满足,进入梦境位面,与散打大师风振战斗,通过试炼转职成功,获得四个新技能",
       "key_scenes": ["系统转职提示", "梦境位面", "风振登场", "试炼战斗", "转职成功", "新技能获得"],
       "skills": ["疾风连拳", "旋风腿", "碎骨", "铁山靠"],
       "milestone": "转职散打(成长里程碑)",
-      "published_path": "正文/已发布/第二十章.md"
+      "published_path": "正文/已发布/第二十章(v2).md"
     },
     {
       "chapter_number": 21,

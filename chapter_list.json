@@ -6,9 +6,9 @@
     "target_words_per_chapter": 2200,
     "total_target_words": 1003200,
     "current_progress": {
-      "completed_chapters": 60,
-      "pending_chapters": 396,
-      "completion_percentage": 13.2
+      "completed_chapters": 70,
+      "pending_chapters": 386,
+      "completion_percentage": 15.4
     }
   },
   "volumes": [
@@ -760,6 +760,129 @@
       "skills": ["旋风腿Lv.3"],
       "milestone": "自来也离开收集情报,李武立志改变世界",
       "published_path": "正文/已发布/第六十章.md"
+    },
+    {
+      "chapter_number": 61,
+      "title": "鸣人的修炼",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "李武帮助鸣人完成螺旋丸第二阶段,接受A级护送任务,成为临时队长,遭遇叛忍组织",
+      "key_scenes": ["帮助鸣人", "螺旋丸第二阶段", "A级任务", "临时队长", "遭遇叛忍"],
+      "skills": [],
+      "published_path": "正文/已发布/第六十一章.md"
+    },
+    {
+      "chapter_number": 62,
+      "title": "团队战斗",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "团队战斗击败叛忍,李武首次使用念气全开,击败Lv.42头目,获得1500经验值",
+      "key_scenes": ["团队配合", "念气全开首次使用", "击败头目", "获得经验"],
+      "skills": ["念气全开(临时技能)"],
+      "published_path": "正文/已发布/第六十二章.md"
+    },
+    {
+      "chapter_number": 63,
+      "title": "护送完成",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "第二次战斗击败弱敌,任务成功完成,李武晋升特别上忍,获得20000两奖励",
+      "key_scenes": ["第二次战斗", "任务完成", "晋升特别上忍", "获得奖励"],
+      "skills": [],
+      "milestone": "晋升特别上忍",
+      "published_path": "正文/已发布/第六十三章.md"
+    },
+    {
+      "chapter_number": 64,
+      "title": "特别上忍的职责",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "接受A级调查任务,与卯月夕颜搭档,前往火之国边境,夜晚遭遇影之会5人",
+      "key_scenes": ["A级调查任务", "卯月夕颜", "前往边境", "遭遇影之会"],
+      "skills": [],
+      "published_path": "正文/已发布/第六十四章.md"
+    },
+    {
+      "chapter_number": 65,
+      "title": "影之会的秘密",
+      "status": "completed",
+      "word_count": 4200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "李武夕颜vs影之会5人,暗影阵展开,击败Lv.38破坏阵法节点,头目暗影真身,念气爆发结束失去战力,夕颜撤退李武断后",
+      "key_scenes": ["vs影之会", "暗影阵", "破坏节点", "暗影真身", "夕颜撤退", "李武断后"],
+      "skills": ["念气爆发"],
+      "published_path": "正文/已发布/第六十五章.md"
+    },
+    {
+      "chapter_number": 66,
+      "title": "绝境求生",
+      "status": "completed",
+      "word_count": 4200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "李武独自对战4人,利用地形优势,再次念气爆发击败Lv.40和Lv.42,念气值归零重伤,凯老师及时救援",
+      "key_scenes": ["独自对战", "地形优势", "击败两人", "念气归零", "重伤", "凯老师救援"],
+      "skills": ["念气爆发"],
+      "published_path": "正文/已发布/第六十六章.md"
+    },
+    {
+      "chapter_number": 67,
+      "title": "任务汇报",
+      "status": "completed",
+      "word_count": 3800,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "回到木叶接受治疗,向纲手汇报任务,反思三个弱点,获得15000两奖励,纲手安排卡卡西一个月特训",
+      "key_scenes": ["纲手治疗", "任务汇报", "反思弱点", "获得奖励", "卡卡西特训"],
+      "skills": [],
+      "milestone": "卡卡西一个月特训开始",
+      "published_path": "正文/已发布/第六十七章.md"
+    },
+    {
+      "chapter_number": 68,
+      "title": "卡卡西的训练",
+      "status": "completed",
+      "word_count": 4200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "第一阶段战斗技巧训练,卡卡西评估实力指出四个问题,李武学会7个战斗技巧,念气值上限突破6000",
+      "key_scenes": ["实力评估", "战斗技巧训练", "学会7个技巧", "念气值突破6000"],
+      "skills": [],
+      "milestone": "念气值上限突破6000",
+      "published_path": "正文/已发布/第六十八章.md"
+    },
+    {
+      "chapter_number": 69,
+      "title": "念气管理",
+      "status": "completed",
+      "word_count": 4200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "第二阶段念气管理训练,卡卡西分析念气系统,李武学会6个念气管理技巧,优化消耗-12%恢复+50%威力+10%",
+      "key_scenes": ["念气系统分析", "念气管理训练", "学会6个技巧", "优化完成"],
+      "skills": [],
+      "published_path": "正文/已发布/第六十九章.md"
+    },
+    {
+      "chapter_number": 70,
+      "title": "防御与反击",
+      "status": "completed",
+      "word_count": 4000,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "第三阶段防御反击训练,李武学会6个防御反击技巧+1个新技能念气反弹,念气值上限6060",
+      "key_scenes": ["防御反击训练", "学会6个技巧", "念气反弹新技能", "念气值6060"],
+      "skills": ["念气反弹·Lv.1"],
+      "published_path": "正文/已发布/第七十章.md"
     }
   ]
 }

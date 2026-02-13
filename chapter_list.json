@@ -6,9 +6,9 @@
     "target_words_per_chapter": 2200,
     "total_target_words": 1003200,
     "current_progress": {
-      "completed_chapters": 40,
-      "pending_chapters": 416,
-      "completion_percentage": 8.8
+      "completed_chapters": 50,
+      "pending_chapters": 406,
+      "completion_percentage": 11.0
     }
   },
   "volumes": [
@@ -511,6 +511,132 @@
       "skills": ["散打技能全部Lv.2", "念气感知Lv.4", "念气爆发Lv.2", "闪电之舞Lv.2"],
       "milestone": "等级恢复Lv.23,第三场考试开始",
       "published_path": "正文/已发布/第四十章.md"
+    },
+    {
+      "chapter_number": 41,
+      "title": "写轮眼vs白眼",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "第三场考试第一场:佐助vs宁次,佐助千鸟获胜,第二场:李武vs我爱罗,我爱罗变身守鹤",
+      "key_scenes": ["佐助vs宁次", "千鸟vs柔拳", "佐助获胜", "李武vs我爱罗", "我爱罗变身守鹤"],
+      "skills": ["千鸟", "柔拳·八卦六十四掌", "守鹤变身"],
+      "published_path": "正文/已发布/第四十一章.md"
+    },
+    {
+      "chapter_number": 42,
+      "title": "对战守鹤",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "李武vs守鹤(Lv.25 vs Lv.25),使用念气爆发和念气全开,击败守鹤,木叶崩溃计划开始",
+      "key_scenes": ["李武vs守鹤", "念气全开", "击败守鹤", "大蛇丸现身", "木叶崩溃开始"],
+      "skills": ["念气爆发", "念气全开(临时技能)", "守鹤尾兽玉"],
+      "milestone": "击败守鹤(Lv.25),木叶崩溃开始",
+      "published_path": "正文/已发布/第四十二章.md"
+    },
+    {
+      "chapter_number": 43,
+      "title": "木叶崩溃",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "大蛇丸现身,四紫炎阵困住三代,秽土转生召唤初代二代,李武重伤(700/5500 HP),系统改命选项(代价-10级),李武选择不干预",
+      "key_scenes": ["大蛇丸现身", "四紫炎阵", "秽土转生", "李武重伤", "改命选项", "选择不干预"],
+      "skills": ["秽土转生", "四紫炎阵", "木遁", "水遁"],
+      "milestone": "第二次命运抉择(选择不干预三代之死)",
+      "published_path": "正文/已发布/第四十三章.md"
+    },
+    {
+      "chapter_number": 44,
+      "title": "火影的牺牲",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "三代火影使用尸鬼封尽封印大蛇丸双手,三代火影牺牲,李武远观哭泣,立誓变强",
+      "key_scenes": ["尸鬼封尽", "封印大蛇丸双手", "三代之死", "李武哭泣", "立誓变强"],
+      "skills": ["尸鬼封尽", "草薙剑"],
+      "milestone": "三代火影牺牲(关键剧情节点)",
+      "published_path": "正文/已发布/第四十四章.md"
+    },
+    {
+      "chapter_number": 45,
+      "title": "重建与修炼",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "李武恢复念气,训练升级(Lv.23→Lv.24→Lv.25),自来也邀请李武加入寻找纲手,李武接受",
+      "key_scenes": ["念气恢复", "狩猎升级", "技能训练", "自来也邀请", "接受任务"],
+      "skills": ["散打技能提升", "念气感知强化"],
+      "published_path": "正文/已发布/第四十五章.md"
+    },
+    {
+      "chapter_number": 46,
+      "title": "出发",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "李武、鸣人、自来也出发寻找纲手,李武学会影分身(念气版),开发念气螺旋,鸣人得知父亲是四代火影",
+      "key_scenes": ["三人出发", "学习影分身", "开发念气螺旋", "鸣人得知父亲身份", "螺旋丸训练"],
+      "skills": ["影分身之术(念气版)", "念气螺旋"],
+      "milestone": "开发念气螺旋(新技能)",
+      "published_path": "正文/已发布/第四十六章.md"
+    },
+    {
+      "chapter_number": 47,
+      "title": "修炼与情报",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "鸣人完成螺旋丸第一阶段,李武发现影分身训练法,自来也警告晓组织,念气值上限提升至4600,感知到鼬和鬼鲛接近",
+      "key_scenes": ["鸣人突破第一阶段", "影分身训练法", "自来也警告", "念气值提升", "感知强敌"],
+      "skills": ["螺旋丸第一阶段", "影分身训练法", "念气感知Lv.4"],
+      "published_path": "正文/已发布/第四十七章.md"
+    },
+    {
+      "chapter_number": 48,
+      "title": "晓之威胁",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "遭遇鼬(Lv.82)和鬼鲛(Lv.76),鼬使用月读被念气防御,天照被念气罩抵挡,鬼鲛鲛肌吸收念气,凯老师赶到,鼬鬼鲛撤退",
+      "key_scenes": ["鼬鬼鲛登场", "月读被防御", "天照被抵挡", "鲛肌吸收念气", "念气螺旋反击", "凯老师救援"],
+      "skills": ["月读", "天照", "鲛肌", "念气螺旋", "八门遁甲"],
+      "milestone": "发现念气可抵抗写轮眼瞳术",
+      "published_path": "正文/已发布/第四十八章.md"
+    },
+    {
+      "chapter_number": 49,
+      "title": "实力的差距",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "战后反思实力差距,李武完全恢复,系统任务:击败影级强者(奖励50000经验),凯老师返回木叶,三天后抵达短册街,找到纲手(Lv.73),纲手拒绝担任火影",
+      "key_scenes": ["战后反思", "完全恢复", "系统任务", "凯老师告别", "抵达短册街", "找到纲手", "纲手拒绝"],
+      "skills": ["影分身训练", "螺旋丸第二阶段开始"],
+      "published_path": "正文/已发布/第四十九章.md"
+    },
+    {
+      "chapter_number": 50,
+      "title": "大蛇丸的交易",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "大蛇丸(Lv.78)和兜(Lv.65)出现,提议用秽土转生复活绳树和断换取治疗双手,纲手假装答应后突然攻击,拒绝交易,决定回木叶担任第五代火影,战斗即将开始",
+      "key_scenes": ["大蛇丸兜登场", "秽土转生交易", "纲手内心挣扎", "突然攻击", "拒绝交易", "决定担任火影", "战斗开始"],
+      "skills": ["怪力拳", "秽土转生", "医疗忍术"],
+      "milestone": "第50章完成,纲手决定担任第五代火影",
+      "published_path": "正文/已发布/第五十章.md"
     }
   ]
 }

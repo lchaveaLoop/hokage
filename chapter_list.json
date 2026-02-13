@@ -6,9 +6,9 @@
     "target_words_per_chapter": 2200,
     "total_target_words": 1003200,
     "current_progress": {
-      "completed_chapters": 50,
-      "pending_chapters": 406,
-      "completion_percentage": 11.0
+      "completed_chapters": 60,
+      "pending_chapters": 396,
+      "completion_percentage": 13.2
     }
   },
   "volumes": [
@@ -637,6 +637,129 @@
       "skills": ["怪力拳", "秽土转生", "医疗忍术"],
       "milestone": "第50章完成,纲手决定担任第五代火影",
       "published_path": "正文/已发布/第五十章.md"
+    },
+    {
+      "chapter_number": 51,
+      "title": "三忍对决",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "三忍战斗开始,李武和鸣人vs兜(Lv.65),团队配合战斗",
+      "key_scenes": ["三忍对决", "李武鸣人vs兜", "兜细胞活性化", "团队配合"],
+      "skills": ["念气螺旋", "不完整螺旋丸", "细胞活性化"],
+      "published_path": "正文/已发布/第五十一章.md"
+    },
+    {
+      "chapter_number": 52,
+      "title": "百豪之术",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 25,
+      "core_plot": "击败兜,大蛇丸撤退,纲手决定担任第五代火影,李武完成主线任务获得5000经验+3技能点",
+      "key_scenes": ["击败兜", "大蛇丸撤退", "纲手决定", "主线任务完成", "技能提升"],
+      "skills": ["百豪之术", "念气感知Lv.5", "念气螺旋Lv.2"],
+      "milestone": "纲手成为第五代火影,主线任务完成",
+      "published_path": "正文/已发布/第五十二章.md"
+    },
+    {
+      "chapter_number": 53,
+      "title": "火影就任",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 26,
+      "core_plot": "纲手正式就任第五代火影,李武升级至Lv.26,帮助重建训练场",
+      "key_scenes": ["火影就任仪式", "李武升级Lv.26", "重建训练场", "与小李凯老师互动"],
+      "skills": ["念气爆发Lv.3"],
+      "published_path": "正文/已发布/第五十三章.md"
+    },
+    {
+      "chapter_number": 54,
+      "title": "日常训练",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 27,
+      "core_plot": "李武制定详细训练计划(Lv.30/40/50目标),系统化训练,升级至Lv.27",
+      "key_scenes": ["制定训练计划", "影分身训练法", "狩猎升级", "与鸣人小李互动"],
+      "skills": ["疾风连拳Lv.3", "影分身训练法"],
+      "published_path": "正文/已发布/第五十四章.md"
+    },
+    {
+      "chapter_number": 55,
+      "title": "任务来临",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 28,
+      "core_plot": "纲手分配B级任务(护送医疗物资),队伍:卡卡西、李武、鸣人、小樱,警告晓组织,击败山贼",
+      "key_scenes": ["任务分配", "晓组织警告", "出发", "击败山贼"],
+      "skills": ["念气感知扫描"],
+      "published_path": "正文/已发布/第五十五章.md"
+    },
+    {
+      "chapter_number": 56,
+      "title": "叛忍袭击",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 28,
+      "core_plot": "深夜遭遇叛忍袭击(Lv.35头目+2xLv.28),李武和卡卡西联手击败,获得1400经验",
+      "key_scenes": ["深夜袭击", "李武vs叛忍x2", "李武卡卡西vs头目", "团队配合"],
+      "skills": ["霸体护甲", "念气爆发", "疾风连拳", "寸拳", "念气螺旋"],
+      "published_path": "正文/已发布/第五十六章.md"
+    },
+    {
+      "chapter_number": 57,
+      "title": "任务完成",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 29,
+      "core_plot": "成功交付医疗物资,平安返回木叶,获得10000两报酬,李武升级至Lv.29",
+      "key_scenes": ["交付物资", "返程", "任务完成", "升级Lv.29", "角色对话"],
+      "skills": [],
+      "published_path": "正文/已发布/第五十七章.md"
+    },
+    {
+      "chapter_number": 58,
+      "title": "突破Lv.30",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 30,
+      "core_plot": "李武达到Lv.30(1月目标达成),解锁技能进化系统,念气感知进化为念气探测(2000米范围)",
+      "key_scenes": ["狩猎升级", "达到Lv.30", "解锁技能进化", "念气感知进化", "与小李对话"],
+      "skills": ["念气探测Lv.1(进化)"],
+      "milestone": "达到Lv.30,解锁技能进化系统",
+      "published_path": "正文/已发布/第五十八章.md"
+    },
+    {
+      "chapter_number": 59,
+      "title": "新的挑战",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 30,
+      "core_plot": "李武测试念气探测,发现并击败森林守护者(Lv.32紫色BOSS),纲手教导力量的意义,李武帮助村民",
+      "key_scenes": ["念气探测测试", "vs森林守护者", "纲手教导", "帮助村民", "心态转变"],
+      "skills": ["念气探测", "寸拳·蓄力", "念气螺旋"],
+      "published_path": "正文/已发布/第五十九章.md"
+    },
+    {
+      "chapter_number": 60,
+      "title": "新的技能",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "李武升级至Lv.31,旋风腿升至Lv.3,发现技能商店新技能(念气炮、螺旋念气场),自来也教导改变世界,自来也离开收集晓组织情报",
+      "key_scenes": ["升级Lv.31", "旋风腿Lv.3", "技能商店", "自来也对话", "自来也离开", "新目标"],
+      "skills": ["旋风腿Lv.3"],
+      "milestone": "自来也离开收集情报,李武立志改变世界",
+      "published_path": "正文/已发布/第六十章.md"
     }
   ]
 }

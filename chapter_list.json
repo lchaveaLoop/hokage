@@ -972,6 +972,19 @@
       "skills": ["寸拳", "疾风连拳", "旋风腿", "念气爆发", "武神强踢"],
       "milestone": "击败佩恩六道,前往雨隐村",
       "published_path": "正文/已发布/第一百五十五章.md"
+    },
+    {
+      "chapter_number": 156,
+      "title": "轮回眼",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 3,
+      "level": 118,
+      "core_plot": "李武vs长门,轮回眼vs念气,击败长门,长门使用轮回天生术牺牲",
+      "key_scenes": ["vs长门", "神罗天征无效", "击败长门", "轮回天生术", "长门牺牲"],
+      "skills": ["霸体护甲", "寸拳", "疾风连拳", "念气罩"],
+      "milestone": "击败长门,轮回天生术牺牲",
+      "published_path": "正文/已发布/第一百五十六章.md"
     }
   ]
 }

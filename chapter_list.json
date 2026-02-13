@@ -6,9 +6,9 @@
     "target_words_per_chapter": 2200,
     "total_target_words": 1003200,
     "current_progress": {
-      "completed_chapters": 30,
-      "pending_chapters": 426,
-      "completion_percentage": 6.6
+      "completed_chapters": 40,
+      "pending_chapters": 416,
+      "completion_percentage": 8.8
     }
   },
   "volumes": [
@@ -388,6 +388,129 @@
       "key_scenes": ["高塔休息", "我爱罗到达", "音隐到达", "第七班到达", "佐助的咒印", "预选赛宣布"],
       "skills": ["念气感知"],
       "published_path": "正文/已发布/第三十章.md"
+    },
+    {
+      "chapter_number": 31,
+      "title": "预选赛前夜",
+      "status": "completed",
+      "word_count": 2000,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "预选赛前夜,李武练习散打技能,评估对手实力,担心小李vs我爱罗",
+      "key_scenes": ["技能练习", "实力评估", "与队友交流", "遇到第七班", "佐助咒印恶化"],
+      "skills": ["疾风连拳", "旋风腿", "碎骨", "铁山靠"],
+      "published_path": "正文/已发布/第三十一章.md"
+    },
+    {
+      "chapter_number": 32,
+      "title": "预选赛开幕",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "预选赛开幕,月光疾风主考官,电子抽签确定对战,李武vs勘九郎第13场,小李vs我爱罗第9场",
+      "key_scenes": ["竞技场集合", "月光疾风登场", "抽签仪式", "对战组合确定", "第一场开始"],
+      "skills": [],
+      "published_path": "正文/已发布/第三十二章.md"
+    },
+    {
+      "chapter_number": 33,
+      "title": "佐助的战斗",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "第一场:佐助vs赤铜铠,佐助拒绝咒印力量,用狮子连弹获胜",
+      "key_scenes": ["写轮眼vs查克拉吸收", "佐助内心挣扎", "狮子连弹", "佐助获胜", "第二场开始"],
+      "skills": ["写轮眼", "狮子连弹"],
+      "published_path": "正文/已发布/第三十三章.md"
+    },
+    {
+      "chapter_number": 34,
+      "title": "虫之战",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "第二场:志乃vs萨克,虫海战术vs音波攻击,志乃获胜,系统提前预警小李vs我爱罗事件",
+      "key_scenes": ["寄坏虫展示", "萨克音波攻击", "虫群防御", "志乃获胜", "系统预警"],
+      "skills": ["寄坏虫", "空气斩"],
+      "milestone": "系统提前预警机制首次出现",
+      "published_path": "正文/已发布/第三十四章.md"
+    },
+    {
+      "chapter_number": 35,
+      "title": "樱与井野",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "第三场:小樱vs井野,心转身之术,小樱内心人格觉醒,双方平局淘汰,第四场:手鞠秒杀坦帕利",
+      "key_scenes": ["心转身之术", "意识空间战斗", "小樱精神力爆发", "平局", "手鞠秒杀"],
+      "skills": ["心转身之术", "风遁·大镰鼬"],
+      "published_path": "正文/已发布/第三十五章.md"
+    },
+    {
+      "chapter_number": 36,
+      "title": "傀儡师的战斗",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "第五场:勘九郎vs剑美澄,傀儡术乌鸦展示,李武观察找出三个破绽,第六场:天天vs托斯,天天认输",
+      "key_scenes": ["傀儡术乌鸦", "李武分析破绽", "天天受伤", "明智认输", "系统倒计时3场"],
+      "skills": ["傀儡术·乌鸦", "音波攻击"],
+      "published_path": "正文/已发布/第三十六章.md"
+    },
+    {
+      "chapter_number": 37,
+      "title": "鸣人与宁次",
+      "status": "completed",
+      "word_count": 2100,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "第七场:鸣人vs牙,鸣人获胜,第八场:雏田vs宁次,宁次获胜,系统倒计时1场,李武决定干预",
+      "key_scenes": ["鸣人影分身战术", "雏田的勇气", "宁次八卦六十四掌", "李武与小李对话", "第九场即将开始"],
+      "skills": ["影分身", "牙通牙", "柔拳·八卦六十四掌"],
+      "published_path": "正文/已发布/第三十七章.md"
+    },
+    {
+      "chapter_number": 38,
+      "title": "改变命运",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "第九场:小李vs我爱罗,小李开五门,李武出手干预救下小李,代价等级-3(Lv.23→Lv.20),三代火影判李武直接晋级",
+      "key_scenes": ["小李八门遁甲五门", "表莲华里莲华", "我爱罗即将压碎", "李武干预", "代价扣除", "直接晋级"],
+      "skills": ["八门遁甲·五门", "表莲华", "里莲华", "念气爆发", "寸拳"],
+      "milestone": "第三次命运改变(选择干预,代价-3级)",
+      "published_path": "正文/已发布/第三十八章.md"
+    },
+    {
+      "chapter_number": 39,
+      "title": "预选赛落幕",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 20,
+      "core_plot": "第十场:丁次vs金,金获胜,第十一场:鹿丸vs金,鹿丸获胜,第十二场:茨姆获胜,第十三场取消,预选赛结束,10人晋级",
+      "key_scenes": ["丁次肉弹战车", "鹿丸影子模仿术", "勘九郎被淘汰", "晋级名单公布", "三代警告团藏", "探望小李"],
+      "skills": ["倍化之术", "影子模仿术"],
+      "published_path": "正文/已发布/第三十九章.md"
+    },
+    {
+      "chapter_number": 40,
+      "title": "一个月的修炼",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 23,
+      "core_plot": "一个月训练期,李武恢复等级Lv.20→Lv.23,提升技能熟练度,与凯老师对练,第三场考试开始,抽签:李武vs我爱罗第二场",
+      "key_scenes": ["制定训练计划", "狩猎升级", "技能练习", "与凯对练", "第三场开幕", "抽签结果"],
+      "skills": ["散打技能全部Lv.2", "念气感知Lv.4", "念气爆发Lv.2", "闪电之舞Lv.2"],
+      "milestone": "等级恢复Lv.23,第三场考试开始",
+      "published_path": "正文/已发布/第四十章.md"
     }
   ]
 }

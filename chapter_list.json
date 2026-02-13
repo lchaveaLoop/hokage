@@ -988,3 +988,19 @@
     }
   ]
 }
+,
+    {
+      "chapter_number": 157,
+      "title": "英雄归来",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 2,
+      "level": 72,
+      "core_plot": "李武返回木叶,鸣人被授予英雄称号,李武接受二觉前置任务:净化1000名伪装者",
+      "key_scenes": ["李武归来", "鸣人成为英雄", "授勋仪式", "二觉任务", "离开木叶"],
+      "skills": [],
+      "milestone": "二觉前置任务开始",
+      "published_path": "正文/已发布/第一百五十七章.md"
+    }
+  ]
+}

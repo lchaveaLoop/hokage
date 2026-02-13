@@ -947,5 +947,18 @@
       "milestone": "解锁修炼模式,升级至Lv.34",
       "published_path": "正文/已发布/第七十五章.md"
     }
+    {
+      "chapter_number": 154,
+      "title": "佩恩来袭",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 3,
+      "level": 117,
+      "core_plot": "击败使徒罗特斯升级Lv.117,返回木叶面对佩恩六道来袭,战斗开始",
+      "key_scenes": ["击败罗特斯", "升级Lv.117", "卡西利亚斯警告", "佩恩降临", "战斗开始"],
+      "skills": ["寸拳", "闪电之舞", "武神强踢", "念气爆发"],
+      "milestone": "击败使徒罗特斯,佩恩来袭",
+      "published_path": "正文/已发布/第一百五十四章.md"
+    }
   ]
 }

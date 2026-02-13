@@ -6,9 +6,9 @@
     "target_words_per_chapter": 2200,
     "total_target_words": 1003200,
     "current_progress": {
-      "completed_chapters": 70,
-      "pending_chapters": 386,
-      "completion_percentage": 15.4
+      "completed_chapters": 75,
+      "pending_chapters": 381,
+      "completion_percentage": 16.4
     }
   },
   "volumes": [
@@ -883,6 +883,69 @@
       "key_scenes": ["防御反击训练", "学会6个技巧", "念气反弹新技能", "念气值6060"],
       "skills": ["念气反弹·Lv.1"],
       "published_path": "正文/已发布/第七十章.md"
+    },
+    {
+      "chapter_number": 71,
+      "title": "实战训练开始",
+      "status": "completed",
+      "word_count": 5200,
+      "volume": 1,
+      "level": 31,
+      "core_plot": "第四阶段实战训练第1-3天,vs卡卡西影分身×3,vs凯(八门遁甲·休门),vs阿斯玛+红(发现念气自动防御幻术)",
+      "key_scenes": ["vs卡卡西影分身", "vs凯八门遁甲", "vs阿斯玛红", "念气防御幻术"],
+      "skills": ["念气自动防御幻术"],
+      "published_path": "正文/已发布/第七十一章.md"
+    },
+    {
+      "chapter_number": 72,
+      "title": "最终考核",
+      "status": "completed",
+      "word_count": 4200,
+      "volume": 1,
+      "level": 32,
+      "core_plot": "第四阶段实战训练第4-7天,vs纲手+自来也+鹿久,vs镜像分身,24小时生存训练,S级任务清剿叛忍组织,升级至Lv.32",
+      "key_scenes": ["vs三人小队", "vs镜像分身", "生存训练", "S级任务", "升级Lv.32"],
+      "skills": [],
+      "milestone": "卡卡西训练完成,升级至Lv.32",
+      "published_path": "正文/已发布/第七十二章.md"
+    },
+    {
+      "chapter_number": 73,
+      "title": "新的开始",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 32,
+      "core_plot": "与凯切磋展示训练成果,接受A级任务调查北部边境异常,组建四人小队(李武、夕颜、青叶、疾风),发现虚空裂缝和虚空生物",
+      "key_scenes": ["vs凯切磋", "A级任务", "四人小队", "虚空裂缝", "虚空生物"],
+      "skills": ["念气探测"],
+      "published_path": "正文/已发布/第七十三章.md"
+    },
+    {
+      "chapter_number": 74,
+      "title": "虚空之战",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 32,
+      "core_plot": "四人小队vs虚空生物,疾风舍身保护李武身受重伤,成功关闭裂缝击败Lv.35虚空守卫,纲手手术救下疾风,晋升精英特别上忍",
+      "key_scenes": ["vs虚空生物", "疾风舍身", "关闭裂缝", "纲手手术", "精英特别上忍"],
+      "skills": ["念气封印(临时技能)"],
+      "milestone": "第四次改变命运(救下月光疾风),晋升精英特别上忍",
+      "published_path": "正文/已发布/第七十四章.md"
+    },
+    {
+      "chapter_number": 75,
+      "title": "新的挑战",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 34,
+      "core_plot": "系统提示佐助3个月后离村,开启修炼模式(时间流速1:10),修炼空间训练10天升至Lv.34,三个主要技能升至Lv.4,接受S级任务清剿Lv.48叛忍首领",
+      "key_scenes": ["佐助离村预告", "修炼模式", "升级Lv.34", "技能Lv.4", "S级任务"],
+      "skills": ["疾风连拳·Lv.4", "旋风腿·Lv.4", "寸拳·Lv.4"],
+      "milestone": "解锁修炼模式,升级至Lv.34",
+      "published_path": "正文/已发布/第七十五章.md"
     }
   ]
 }

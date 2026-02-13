@@ -1,0 +1,30 @@
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器文件
+.vscode/
+.idea/
+*.sublime-*
+
+# 备份文件
+backup/
+*.backup
+
+# 日志文件
+*.log
+
+# 草稿文件
+draft/
+草稿/
+
+# 个人笔记(不提交)
+notes.txt
+私人笔记.txt

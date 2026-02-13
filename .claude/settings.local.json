@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__web-search-prime__webSearchPrime",
+      "WebFetch(domain:www.anthropic.com)",
+      "mcp__web-reader__webReader"
+    ]
+  }
+}

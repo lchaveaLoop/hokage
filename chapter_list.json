@@ -1180,6 +1180,19 @@
       "skills": [],
       "milestone": "救出自来也",
       "published_path": "正文/已发布/225章.md"
+    },
+    {
+      "chapter_number": 226,
+      "title": "二觉后的强化",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 2,
+      "level": 81,
+      "core_plot": "李武熟悉极武圣力量,测试技能",
+      "key_scenes": ["训练", "测试", "讨论"],
+      "skills": ["极武圣", "武神强踢"],
+      "milestone": "熟悉极武圣力量",
+      "published_path": "正文/已发布/226章.md"
     }
   ]
 }

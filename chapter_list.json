@@ -1141,6 +1141,19 @@
       "skills": ["极武圣", "极武霸皇拳"],
       "milestone": "极武圣力量测试",
       "published_path": "正文/已发布/222章.md"
+    },
+    {
+      "chapter_number": 223,
+      "title": "自来也的消息",
+      "status": "completed",
+      "word_count": 2000,
+      "volume": 2,
+      "level": 80,
+      "core_plot": "自来也在雨隐村失联,李武前往救援",
+      "key_scenes": ["消息", "出发", "战斗"],
+      "skills": ["极武圣"],
+      "milestone": "救援自来也",
+      "published_path": "正文/已发布/223章.md"
     }
   ]
 }

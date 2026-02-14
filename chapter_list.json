@@ -1128,6 +1128,19 @@
       "skills": ["极武圣"],
       "milestone": "血之诅咒机制发现",
       "published_path": "正文/已发布/221章.md"
+    },
+    {
+      "chapter_number": 222,
+      "title": "极武圣试炼",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 2,
+      "level": 80,
+      "core_plot": "李武测试极武圣力量,诅咒加深到Lv.2",
+      "key_scenes": ["测试力量", "诅咒加深", "纲手对话"],
+      "skills": ["极武圣", "极武霸皇拳"],
+      "milestone": "极武圣力量测试",
+      "published_path": "正文/已发布/222章.md"
     }
   ]
 }

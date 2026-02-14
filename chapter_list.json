@@ -1154,6 +1154,32 @@
       "skills": ["极武圣"],
       "milestone": "救援自来也",
       "published_path": "正文/已发布/223章.md"
+    },
+    {
+      "chapter_number": 224,
+      "title": "雨隐村之战",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 2,
+      "level": 81,
+      "core_plot": "李武vs佩恩天道,击败佩恩",
+      "key_scenes": ["战斗", "击败佩恩"],
+      "skills": ["极武圣", "极武霸皇拳"],
+      "milestone": "击败佩恩",
+      "published_path": "正文/已发布/224章.md"
+    },
+    {
+      "chapter_number": 225,
+      "title": "救出自来也",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 2,
+      "level": 81,
+      "core_plot": "李武救出自来也,讨论血之诅咒",
+      "key_scenes": ["救出", "讨论", "回村"],
+      "skills": [],
+      "milestone": "救出自来也",
+      "published_path": "正文/已发布/225章.md"
     }
   ]
 }

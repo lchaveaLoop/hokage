@@ -1206,6 +1206,19 @@
       "skills": ["念气罩", "寸拳"],
       "milestone": "技能强化",
       "published_path": "正文/已发布/227章.md"
+    },
+    {
+      "chapter_number": 228,
+      "title": "闪电之舞强化",
+      "status": "completed",
+      "word_count": 2000,
+      "volume": 2,
+      "level": 81,
+      "core_plot": "李武测试闪电之舞强化,技能威力提升",
+      "key_scenes": ["测试", "训练"],
+      "skills": ["闪电之舞"],
+      "milestone": "闪电之舞强化",
+      "published_path": "正文/已发布/228章.md"
     }
   ]
 }

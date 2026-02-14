@@ -1193,6 +1193,19 @@
       "skills": ["极武圣", "武神强踢"],
       "milestone": "熟悉极武圣力量",
       "published_path": "正文/已发布/226章.md"
+    },
+    {
+      "chapter_number": 227,
+      "title": "技能强化",
+      "status": "completed",
+      "word_count": 2000,
+      "volume": 2,
+      "level": 81,
+      "core_plot": "李武测试多个技能,技能强化",
+      "key_scenes": ["测试", "训练"],
+      "skills": ["念气罩", "寸拳"],
+      "milestone": "技能强化",
+      "published_path": "正文/已发布/227章.md"
     }
   ]
 }

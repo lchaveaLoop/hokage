@@ -946,7 +946,45 @@
       "skills": ["疾风连拳·Lv.4", "旋风腿·Lv.4", "寸拳·Lv.4"],
       "milestone": "解锁修炼模式,升级至Lv.34",
       "published_path": "正文/已发布/第七十五章.md"
-    }
+    },
+    {
+      "chapter_number": 76,
+      "title": "S级任务",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 34,
+      "core_plot": "执行S级任务清剿叛忍组织,分组作战潜入击杀Lv.48首领赤土,获得新技能念气怪力",
+      "key_scenes": ["S级任务开始", "分组作战", "潜入据点", "击杀赤土", "获得新技能"],
+      "skills": ["念气怪力·Lv.1"],
+      "milestone": "获得新技能念气怪力",
+      "published_path": "正文/已发布/076章.md"
+    },
+    {
+      "chapter_number": 77,
+      "title": "时间流逝",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 34,
+      "core_plot": "修炼新技能念气怪力,小李进步,纲手分配新任务前往雨之国调查",
+      "key_scenes": ["修炼新技能", "小李进步", "接受新任务", "准备出发"],
+      "skills": ["念气怪力·Lv.1"],
+      "published_path": "正文/已发布/077章.md"
+    },
+    {
+      "chapter_number": 78,
+      "title": "晓之来袭",
+      "status": "completed",
+      "word_count": 2200,
+      "volume": 1,
+      "level": 34,
+      "core_plot": "前往雨之国遭遇晓组织首领佩恩,金色等级敌人展现恐怖实力,李武带队友撤退",
+      "key_scenes": ["发现屠村", "遭遇佩恩", "神罗天征", "带队友撤退", "返回木叶"],
+      "skills": ["念气罩·Lv.2", "念气爆发·Lv.3", "念气怪力·Lv.1", "闪电之舞"],
+      "milestone": "首次遭遇金色等级敌人",
+      "published_path": "正文/已发布/078章.md"
+    },
     {
       "chapter_number": 154,
       "title": "佩恩来袭",

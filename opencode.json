@@ -1,0 +1,74 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "agentgv-router": {
+      "description": "Intelligent task router - MUST delegate to sub-agents using task tool, never execute tasks yourself",
+      "mode": "primary",
+      "model": "minimax/MiniMax-M2.5",
+      "temperature": 0.7,
+      "tools": {
+        "task": true,
+        "read": true,
+        "glob": true,
+        "grep": true,
+        "write": true,
+        "edit": true,
+        "bash": true
+      },
+      "permission": {
+        "webfetch": "allow",
+        "bash": "allow"
+      }
+    },
+    "agentgv-operations": {
+      "description": "Creative writing specialist for fiction and novel",
+      "mode": "subagent",
+      "model": "minimax/MiniMax-M2.5",
+      "temperature": 0.7,
+      "tools": {
+        "read": true,
+        "glob": true,
+        "grep": true,
+        "write": true,
+        "edit": true,
+        "bash": true
+      },
+      "permission": {
+        "bash": "allow"
+      }
+    },
+    "agentgv-planning": {
+      "description": "Story planning and plot design",
+      "mode": "subagent",
+      "model": "minimax/MiniMax-M2.5",
+      "temperature": 0.6,
+      "tools": {
+        "read": true,
+        "glob": true,
+        "grep": true,
+        "webfetch": true
+      },
+      "permission": {
+        "webfetch": "allow"
+      }
+    },
+    "agentgv-quality": {
+      "description": "Writing quality review",
+      "mode": "subagent",
+      "model": "minimax/MiniMax-M2.5",
+      "temperature": 0.5,
+      "tools": {
+        "read": true,
+        "glob": true,
+        "grep": true,
+        "write": true,
+        "edit": true,
+        "bash": true
+      },
+      "permission": {
+        "bash": "allow"
+      }
+    }
+  },
+  "default_agent": "agentgv-router"
+}

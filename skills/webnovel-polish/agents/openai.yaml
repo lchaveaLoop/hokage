@@ -1,0 +1,4 @@
+interface:
+  display_name: "网文叙事精修"
+  short_description: "Polish CN webnovel prose, dialogue, and pacing consistency"
+  default_prompt: "Polish Chinese webnovel chapters and outlines with natural dialogue, coherent POV, and in-world terminology consistency."

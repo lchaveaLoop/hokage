@@ -4,7 +4,7 @@
     "agentgv-router": {
       "description": "Intelligent task router - MUST delegate to sub-agents using task tool, never execute tasks yourself",
       "mode": "primary",
-      "model": "minimax/MiniMax-M2.5",
+      "model": "minimax/MiniMax-M2.7",
       "temperature": 0.7,
       "tools": {
         "task": true,
@@ -23,7 +23,7 @@
     "agentgv-operations": {
       "description": "Creative writing specialist for fiction and novel",
       "mode": "subagent",
-      "model": "minimax/MiniMax-M2.5",
+      "model": "minimax/MiniMax-M2.7",
       "temperature": 0.7,
       "tools": {
         "read": true,
@@ -40,7 +40,7 @@
     "agentgv-planning": {
       "description": "Story planning and plot design",
       "mode": "subagent",
-      "model": "minimax/MiniMax-M2.5",
+      "model": "minimax/MiniMax-M2.7",
       "temperature": 0.6,
       "tools": {
         "read": true,
@@ -55,7 +55,7 @@
     "agentgv-quality": {
       "description": "Writing quality review",
       "mode": "subagent",
-      "model": "minimax/MiniMax-M2.5",
+      "model": "minimax/MiniMax-M2.7",
       "temperature": 0.5,
       "tools": {
         "read": true,

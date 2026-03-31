@@ -1,32 +1,69 @@
-# AGENTS.md - DNF小说协作指南
+# AGENTS.md
 
-## 项目概述
+Guide for AI coding/writing agents working in this repository.
 
-本项目是《我在火影玩数值暴力》网络小说，采用 Markdown 纯文本格式存储。
-- 主角：李武（穿越者，DNF玩家）
-- 世界观：火影忍者 + DNF数值体系
-- 章节存储：`演绎记录/` 目录下
-- 人物资料：`资料库/人物传记/` 目录下
-- 创作手册：`创作手册_完整版_456章_v2.0.0.md`
+## Project Overview
 
-## 文件命名规范
+**《我在火影玩数值暴力》** — a Chinese web novel: Naruto fanfiction with DNF (Dungeon Fighter Online) game mechanics.
 
-### 章节文件
+- **Genre**: 热血 + 悲剧 + 系统流
+- **Protagonist**: 李武 (Li Wu) — transmigrator, DNF power system in Naruto world
+- **Core Theme**: Breaking bloodline monopoly through DNF mechanics
+
+## Repository Structure
+
 ```
-演绎记录/{序号}章_{标题}.md
-示例：演绎记录/053章_回到木叶.md
+正文/                              # Main chapters (001章_标题.md)
+资料库/人物传记/                    # Character profiles
+创作手册_完整版_456章_v2.0.0.md     # 800-chapter outline & core themes
+火影忍者时间线.md                    # Konoha calendar & timeline
+CLAUDE.md                          # Claude Code specific guidance
 ```
 
-## 注意事项
+## File Naming Conventions
 
-1. **不破坏既有内容** - 演绎记录和人物传记以完成为准
-2. **保持剧情连贯** - 新章节需衔接前后剧情
-3. **尊重人物设定** - 遵循创作手册中的人物性格
-4. **敏感内容** - 避免血腥暴力过度描写
-5. **备份草稿** - 使用 `草稿/` 或 `draft/` 目录存放未完成内容
+| Type | Pattern | Example |
+|------|---------|---------|
+| Chapters | `正文/{NNN}章_{标题}.md` | `正文/053章_回到木叶.md` |
+| Characters | `资料库/人物传记/{NNN}_{角色名}.md` | `资料库/人物传记/001_漩涡鸣人.md` |
 
-## 参考资源
+- Use 3-digit zero-padded numbers (001, 002, etc.)
+- Chapter titles in Chinese, concise
 
-- 创作手册：`创作手册_完整版_456章_v2.0.0.md` - 800章剧情规划
-- 人物传记：`资料库/人物传记/目录索引.md` - 所有角色索引
-- 时间线：`火影忍者时间线.md` - 火影世界时间轴
+## Writing Workflow
+
+1. **Before writing**: Read the last 2-3 chapters for continuity
+2. **Reference**: Check `资料库/人物传记/` for character consistency
+3. **Timeline**: Verify dates against `火影忍者时间线.md`
+4. **Outline**: Follow arcs in `创作手册_完整版_456章_v2.0.0.md`
+5. **After writing**: Commit chapter file with descriptive message
+
+## Content Guidelines
+
+- **Tone**: Mix hot-blooded action with tragic undertones and human struggle
+- **Conflict**: DNF mechanics vs Naruto bloodline system — prove strength without bloodlines
+- **Restrictions**: No excessive gore; keep platform-appropriate; respect character personalities
+- **Power system**: DNF classes (鬼剑士/格斗家/神枪手/魔法师/圣职者) mapped to chakra system
+
+## Git Workflow
+
+- Standard git; no special tooling
+- Commit completed or revised chapters
+- Use descriptive commit messages in Chinese
+- Do not commit drafts (see .gitignore)
+
+## Key Reference Files
+
+| File | Purpose |
+|------|---------|
+| `创作手册_完整版_456章_v2.0.0.md` | Master outline, character arcs, themes, ideology |
+| `火影忍者时间线.md` | Official timeline, Konoha calendar, character ages |
+| `资料库/人物传记/目录索引.md` | Character biography index |
+
+## Agent Behavior
+
+- Always read context chapters before writing new content
+- Maintain character voice consistency per biographies
+- Follow the 800-chapter outline; don't deviate from major plot arcs
+- When revising, preserve author's original style and intent
+- Ask for clarification on plot decisions rather than inventing them

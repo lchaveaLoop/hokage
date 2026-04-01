@@ -4,7 +4,10 @@
       "WebSearch",
       "Bash(cmd /c dir \"E:\\\\Projects\\\\DNF 小说\" /b)",
       "Bash(powershell -Command \"Get-Content 'E:\\\\Projects\\\\DNF 小说\\\\创作手册_完整版_456 章_v2.0.0.md' | Select-Object -First 50\")",
-      "Bash(powershell -Command \"Get-Content -LiteralPath 'E:\\\\Projects\\\\DNF 小说\\\\创作手册_完整版_456 章_v2.0.0.md' -TotalCount 50\" 2>&1)"
+      "Bash(powershell -Command \"Get-Content -LiteralPath 'E:\\\\Projects\\\\DNF 小说\\\\创作手册_完整版_456 章_v2.0.0.md' -TotalCount 50\" 2>&1)",
+      "mcp__MiniMax__web_search",
+      "Bash(curl -sL https://api.github.com/repos/uluckyXH/OpenMOSS/contents/)",
+      "WebFetch(domain:github.com)"
     ]
   }
 }

@@ -15,7 +15,9 @@ This is a Chinese web novel project: **《我在火影玩数值暴力》** (Play
 ```
 正文/                          # Main story chapters (numbered: 001章_标题.md)
 资料库/人物传记/               # Character biographies and profiles
-创作手册_完整版_456章_v2.0.0.md  # Complete creation manual (800-chapter outline)
+创作手册_完整版_456章_v2.0.0.md  # World bible + index
+创作手册_1-150章生产大纲.md     # Active production outline
+创作手册_151-800章远期里程碑.md # Long-range milestones
 火影忍者时间线.md               # Naruto timeline reference (Konoha calendar)
 AGENTS.md                      # Collaboration guide for AI agents
 ```
@@ -35,11 +37,16 @@ AGENTS.md                      # Collaboration guide for AI agents
 2. **Character consistency**: Follow character profiles in `资料库/人物传记/` and personality guidelines in the creation manual
 3. **Timeline accuracy**: Reference `火影忍者时间线.md` for Konoha calendar dates and character ages
 4. **Tone balance**: Mix hot-blooded action with tragic undertones and human struggles
-5. **Core conflict**: DNF mechanics vs Naruto bloodline system - protagonist proves strength without bloodlines
+5. **World bible first**: Use `创作手册_完整版_456章_v2.0.0.md` for rules, conflict tables, and theme control
+6. **Production first for active arcs**: Use `创作手册_1-150章生产大纲.md` to guide landed chapters
+7. **Long-range only for direction**: Use `创作手册_151-800章远期里程碑.md` to control future arcs without overruling finished prose
+8. **Core conflict**: DNF mechanics vs Naruto bloodline system - protagonist proves strength without bloodlines
 
 ## Key Reference Files
 
-- **创作手册_完整版_456章_v2.0.0.md**: 800-chapter plot outline, character arcs, core themes, and ideological conflicts
+- **创作手册_完整版_456章_v2.0.0.md**: World bible, conflict cards, system rules, and timeline anchors
+- **创作手册_1-150章生产大纲.md**: Active production outline for the current writing range
+- **创作手册_151-800章远期里程碑.md**: Long-range milestones and ending spine
 - **火影忍者时间线.md**: Official Naruto timeline with Konoha calendar system
 - **AGENTS.md**: Project overview and collaboration notes
 

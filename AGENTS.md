@@ -15,7 +15,9 @@ Guide for AI coding/writing agents working in this repository.
 ```
 正文/                              # Main chapters (001章_标题.md)
 资料库/人物传记/                    # Character profiles
-创作手册_完整版_456章_v2.0.0.md     # 800-chapter outline & core themes
+创作手册_完整版_456章_v2.0.0.md     # 世界圣经 + 总索引
+创作手册_1-150章生产大纲.md          # Current production outline
+创作手册_151-800章远期里程碑.md      # Long-range milestones
 火影忍者时间线.md                    # Konoha calendar & timeline
 CLAUDE.md                          # Claude Code specific guidance
 ```
@@ -35,8 +37,10 @@ CLAUDE.md                          # Claude Code specific guidance
 1. **Before writing**: Read the last 2-3 chapters for continuity
 2. **Reference**: Check `资料库/人物传记/` for character consistency
 3. **Timeline**: Verify dates against `火影忍者时间线.md`
-4. **Outline**: Follow arcs in `创作手册_完整版_456章_v2.0.0.md`
-5. **After writing**: Commit chapter file with descriptive message
+4. **World bible**: Check `创作手册_完整版_456章_v2.0.0.md` for themes, rules, and conflict tables
+5. **Production outline**: Use `创作手册_1-150章生产大纲.md` for any chapter in the active writing range
+6. **Long range**: Use `创作手册_151-800章远期里程碑.md` only to control direction, not to overrule landed prose
+7. **After writing**: Commit chapter file with descriptive message
 
 ## Content Guidelines
 
@@ -56,7 +60,9 @@ CLAUDE.md                          # Claude Code specific guidance
 
 | File | Purpose |
 |------|---------|
-| `创作手册_完整版_456章_v2.0.0.md` | Master outline, character arcs, themes, ideology |
+| `创作手册_完整版_456章_v2.0.0.md` | World bible, rules, conflict cards, timeline anchors |
+| `创作手册_1-150章生产大纲.md` | Active production outline for current writing range |
+| `创作手册_151-800章远期里程碑.md` | Long-range milestones and ending spine |
 | `火影忍者时间线.md` | Official timeline, Konoha calendar, character ages |
 | `资料库/人物传记/目录索引.md` | Character biography index |
 
@@ -64,6 +70,6 @@ CLAUDE.md                          # Claude Code specific guidance
 
 - Always read context chapters before writing new content
 - Maintain character voice consistency per biographies
-- Follow the 800-chapter outline; don't deviate from major plot arcs
+- Follow the three-layer manual structure; active chapters obey the production outline first
 - When revising, preserve author's original style and intent
 - Ask for clarification on plot decisions rather than inventing them

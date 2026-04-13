@@ -1,0 +1,17 @@
+{
+  "review_target": "被审查的剧情片段概述",
+  "canon_conflict_check": {
+    "timeline_issue": "是否与原作时间线冲突？（如：波风水门还没死，主角就学会了螺旋丸）",
+    "character_ooc_risk": "哪些角色的行为可能导致'人设崩塌'？请指出具体台词或动作。",
+    "power_level_anomaly": "战力是否崩坏？（如：下忍主角无伤躲开飞雷神）"
+  },
+  "reader_experience_check": {
+    "frustration_points": "哪些段落会让读者觉得憋屈、不爽？（如：主角被反派羞辱后三章还没报仇）",
+    "confusion_points": "哪些设定或情节在上下文里没有解释清楚？",
+    "repetition_warning": "是否在连续三章内使用了相同的'装逼套路'或'打脸台词模板'？"
+  },
+  "fix_suggestion": {
+    "priority": ["高", "中", "低"],
+    "specific_advice": "针对最严重的一个问题，给出具体的修改剧本片段（100字以内）"
+  }
+}

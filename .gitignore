@@ -28,3 +28,6 @@ draft/
 # 个人笔记(不提交)
 notes.txt
 私人笔记.txt
+
+# AI 内部工作目录
+.claude/
